@@ -1,0 +1,6 @@
+c:\users\m\documents\visual studio 2015\Projects\PrvaDZ\ZAD3\bin\Debug\ZAD3.exe.config
+c:\users\m\documents\visual studio 2015\Projects\PrvaDZ\ZAD3\bin\Debug\ZAD3.exe
+c:\users\m\documents\visual studio 2015\Projects\PrvaDZ\ZAD3\bin\Debug\ZAD3.pdb
+c:\users\m\documents\visual studio 2015\Projects\PrvaDZ\ZAD3\obj\Debug\ZAD3.csprojResolveAssemblyReference.cache
+c:\users\m\documents\visual studio 2015\Projects\PrvaDZ\ZAD3\obj\Debug\ZAD3.exe
+c:\users\m\documents\visual studio 2015\Projects\PrvaDZ\ZAD3\obj\Debug\ZAD3.pdb
