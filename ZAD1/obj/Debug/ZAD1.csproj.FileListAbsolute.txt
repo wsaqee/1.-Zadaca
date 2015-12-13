@@ -1,6 +1,0 @@
-c:\users\m\documents\visual studio 2015\Projects\PrvaDZ\ZAD1\bin\Debug\ZAD1.exe.config
-c:\users\m\documents\visual studio 2015\Projects\PrvaDZ\ZAD1\bin\Debug\ZAD1.exe
-c:\users\m\documents\visual studio 2015\Projects\PrvaDZ\ZAD1\bin\Debug\ZAD1.pdb
-c:\users\m\documents\visual studio 2015\Projects\PrvaDZ\ZAD1\obj\Debug\ZAD1.csprojResolveAssemblyReference.cache
-c:\users\m\documents\visual studio 2015\Projects\PrvaDZ\ZAD1\obj\Debug\ZAD1.exe
-c:\users\m\documents\visual studio 2015\Projects\PrvaDZ\ZAD1\obj\Debug\ZAD1.pdb
